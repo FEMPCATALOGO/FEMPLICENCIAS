@@ -24,9 +24,6 @@ author:
   avatar : "img/licencias.png"
   bio    : "Vocabulario para la representación de datos sobre las licencias urbanísticas y de actividad de locales comerciales."
   links:
-    - label: "Página web"
-      icon: "fas fa-fw fa-link"
-      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/urbanismo-infraestructuras-licencias-obra"
