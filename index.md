@@ -27,9 +27,9 @@ classes: wide
 &nbsp; &nbsp;
   
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Urbanismo e infraestructuras | Inexistente | *[Página web]()* *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-licencias-obra)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-licencias-obra/issues)*   | Vocabulario para la representación de datos sobre las licencias urbanísticas y de actividad de locales comerciales.  |   |  |  |  |    |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- |
+| Urbanismo e infraestructuras | Inexistente |  *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-licencias-obra)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-licencias-obra/issues)*   | Vocabulario para la representación de datos sobre las licencias urbanísticas y de actividad de locales comerciales.  |  
  
  
   
